@@ -1,3 +1,6 @@
 [submodule "app/express/common"]
 	path = app/express/common
 	url = https://github.com/ranxero/bm-common
+[submodule "app/express/plugins"]
+	path = app/express/plugins
+	url = https://github.com/ranxero/bm-plugins
