@@ -1,0 +1,3 @@
+[submodule "app/express/common"]
+	path = app/express/common
+	url = https://github.com/ranxero/bm-common
